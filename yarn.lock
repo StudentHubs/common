@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/node@^9.4.6":
-  version "9.4.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.4.6.tgz#d8176d864ee48753d053783e4e463aec86b8d82e"
+"@types/node@^10.5.4":
+  version "10.5.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.4.tgz#6eccc158504357d1da91434d75e86acde94bb10b"
 
 balanced-match@^1.0.0:
   version "1.0.0"
@@ -57,9 +57,9 @@ inherits@2:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
-keys-to-object@^0.2.0:
+"keys-to-object@https://github.com/StudentHubs/keys-to-object":
   version "0.2.0"
-  resolved "https://registry.yarnpkg.com/keys-to-object/-/keys-to-object-0.2.0.tgz#eecec37d7ad110bafb517376e14c5a717f285dcf"
+  resolved "https://github.com/StudentHubs/keys-to-object#e45cf2d430e02bb7633d52306f93a9c5e62ad340"
 
 lodash.throttle@^4.1.1:
   version "4.1.1"
@@ -71,9 +71,9 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
-moment@^2.20.1:
-  version "2.20.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
+moment@^2.22.2:
+  version "2.22.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
 
 once@^1.3.0:
   version "1.4.0"
@@ -85,16 +85,16 @@ path-is-absolute@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
-prettier@^1.10.2:
-  version "1.10.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.10.2.tgz#1af8356d1842276a99a5b5529c82dd9e9ad3cc93"
+prettier@^1.13.7:
+  version "1.13.7"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.13.7.tgz#850f3b8af784a49a6ea2d2eaa7ed1428a34b7281"
 
-rgo@^0.3.9:
-  version "0.3.9"
-  resolved "https://registry.yarnpkg.com/rgo/-/rgo-0.3.9.tgz#7089a9266703ff5250f79707cd4af78e70a4a026"
+"rgo@https://github.com/StudentHubs/rgo":
+  version "0.3.13"
+  resolved "https://github.com/StudentHubs/rgo#182af996802f45e4dd3a385497f5bf3f2c991022"
   dependencies:
     deep-equal "^1.0.1"
-    keys-to-object "^0.2.0"
+    keys-to-object "https://github.com/StudentHubs/keys-to-object"
     lodash.throttle "^4.1.1"
 
 rimraf@^2.6.2:
@@ -104,12 +104,12 @@ rimraf@^2.6.2:
     glob "^7.0.5"
 
 safe-buffer@^5.0.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.1.tgz#893312af69b2123def71f57889001671eeb2c853"
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
 
-typescript@^2.7.2:
-  version "2.7.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.7.2.tgz#2d615a1ef4aee4f574425cdff7026edf81919836"
+typescript@^2.9.2:
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
 
 wrappy@1:
   version "1.0.2"
